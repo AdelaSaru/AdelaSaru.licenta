@@ -1,4 +1,4 @@
-package ro.ase.pdm.csiemobileplatform;
+package ro.ase.csie.csiemobileplatform;
 
 import org.junit.Test;
 

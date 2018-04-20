@@ -1,4 +1,4 @@
-package ro.ase.pdm.csiemobileplatform;
+package ro.ase.csie.csiemobileplatform;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ro.ase.pdm.csiemobileplatform", appContext.getPackageName());
+        assertEquals("ro.ase.csie.csiemobileplatform", appContext.getPackageName());
     }
 }
