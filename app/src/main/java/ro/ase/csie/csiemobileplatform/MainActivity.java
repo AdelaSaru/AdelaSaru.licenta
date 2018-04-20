@@ -1,4 +1,4 @@
-package ro.ase.pdm.csiemobileplatform;
+package ro.ase.csie.csiemobileplatform;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
